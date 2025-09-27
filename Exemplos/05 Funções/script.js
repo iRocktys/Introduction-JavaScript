@@ -15,13 +15,6 @@ const multiplicar = (a, b) => a * b;
 const numeros = [1, 2, 3];
 const dobrados = numeros.map(item => item * 2);
 
-// E. FUNÇÃO ASSÍNCRONA (async/await)
-async function buscarDados() {
-    console.log("Iniciando busca assíncrona...");
-    // Em um cenário real, haveria um 'await' aqui.
-    return { status: 'OK' };
-}
-
 
 // CHAMA AS FUNÇÕES E EXIBE OS RESULTADOS
 console.log("Soma (Declaração):", somar(10, 5));
