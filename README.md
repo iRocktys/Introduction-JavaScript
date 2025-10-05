@@ -11,7 +11,8 @@ Este repositório contém o código-fonte de todos os **exemplos práticos**.
 3.  Execute os arquivos HTML no seu navegador (Chrome, Firefox, etc.) e abra o console (F12) para ver a execução do JavaScript.
 
 ## 🎓 Sobre o Autor
+O autor Leandro M. Tosta, mestrando em Ciência da Computação pela UEL. Este material foi elaborado sob a disciplina de Estágio de Docência com o objetivo de fornecer uma base prática em fundamentos de JavaScript.
 
-- **Professor:** Leandro Martins Tosta
+- **Autor:** Leandro Martins Tosta
 - **Orientador:** Prof. Dr. Bruno Zarpelão
 - **Instituição:** Universidade Estadual de Londrina (UEL)
