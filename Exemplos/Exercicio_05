@@ -1,0 +1,12 @@
+const inventario = {
+    monitor: { preco: 800, quantidade: 5 },
+    teclado: { preco: 350, quantidade: 10 },
+    mouse: { preco: 150, quantidade: 20 }
+};
+
+// Objeto de atualizações
+const atualizacoes = {
+    monitor: { preco: 850, quantidade: 4 }, 
+    teclado: { preco: 350, quantidade: 8 },
+    headset: { preco: 250, quantidade: 15 } 
+};
